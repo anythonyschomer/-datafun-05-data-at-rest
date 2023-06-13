@@ -1,5 +1,5 @@
 100 Jones 24.98
 200 Doe 345.67
-300Williams0.00
+300 Williams 0.00
 400 Stone -42.16
 500 Rich 224.62
